@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed AbdelRazik</h1>
-<h3 align="center">A passionate Android developer from Egypte</h3>
+<h3 align="center">A passionate Android developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Android Development ,Software Engineering**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdel-Razik</h1>
 <h3 align="center">A passionate DevOps Engineer From Egypt</h3>
 
-- 📫 How to reach me **mohamedabrazek936@gmail.com**
+- 📫 How to reach me **mohammed.abdelrazekk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

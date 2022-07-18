@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdel-Razik</h1>
 <h3 align="center">A passionate DevOps Engineer From Egypt</h3>
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/nKT4CZhmNUj9HdtBhe/giphy.gif?cid=ecf05e4751wtm38ttuhc61ldvpr4kea459xhdzu8ulebaoeo&rid=giphy.gif&ct=s" width="200"/>
+</div>
+
 
 - 📫 How to reach me **mohammed.abdelrazekk@gmail.com**
 
